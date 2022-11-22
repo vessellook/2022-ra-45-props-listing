@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2022-ra-45-props-listing/static/css/main.99079b2d.css",
+    "main.js": "/2022-ra-45-props-listing/static/js/main.b68dca40.js",
+    "static/js/787.bc373347.chunk.js": "/2022-ra-45-props-listing/static/js/787.bc373347.chunk.js",
+    "index.html": "/2022-ra-45-props-listing/index.html",
+    "main.99079b2d.css.map": "/2022-ra-45-props-listing/static/css/main.99079b2d.css.map",
+    "main.b68dca40.js.map": "/2022-ra-45-props-listing/static/js/main.b68dca40.js.map",
+    "787.bc373347.chunk.js.map": "/2022-ra-45-props-listing/static/js/787.bc373347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99079b2d.css",
+    "static/js/main.b68dca40.js"
+  ]
+}
